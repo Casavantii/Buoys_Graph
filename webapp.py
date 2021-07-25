@@ -12,10 +12,10 @@ app = Flask(__name__)
 logging.basicConfig(level=logging.DEBUG)
 
 
-DB_HOST = 'localhost'  # IP or hostname of database
-DB_NAME = 'rsconcep_uberg_data'  # Name of the database to use
-DB_USER = 'rsconcep_xavier_uberg'  # Username for accessing database
-DB_PASS = '5H8uvuM8f9HBkSv'  # Password for database user
+DB_HOST = '###############'  # IP or hostname of database                #demandez les infos aux webmestres de ce projet =)
+DB_NAME = '###############'  # Name of the database to use
+DB_USER = '###############'  # Username for accessing database
+DB_PASS = '###############'  # Password for database user
 
 dict_bouees = ''
 
